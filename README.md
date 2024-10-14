@@ -1,0 +1,1 @@
+This project is a recipes website. The goal is to put in action what I have learned into an appropriate environment. [14/10/24]
